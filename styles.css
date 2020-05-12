@@ -22,7 +22,6 @@ h3 {
 }
 
 div:nth-child(1){
-     background-image: url(hereswhatpod.jpg);
+    background-image: url(img/hereswhatpod.jpg);
      background-size: cover;
-
 }
