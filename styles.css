@@ -1,0 +1,27 @@
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-family: big john;
+    width: 100%;
+    height: 100vh;
+}
+
+h3 {
+    font-size: 35px;
+    background: #eee;
+    padding: 8px 24px;
+    border-radius:16px ;
+}
+
+div:nth-child(1){
+    background-image: url(img/hereswhatpod.jpg);
+     background-size: cover;
+}
